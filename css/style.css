@@ -1,0 +1,10 @@
+/* global rules */
+
+* {
+  box-sizing: border-box;
+}
+
+section {
+  display: flex;
+  height: 100vh;
+}
